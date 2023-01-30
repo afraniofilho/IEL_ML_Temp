@@ -11,7 +11,7 @@ Modelo de ML para predição da Temperatura Ambiente
 3. Rodar o arquivo Jupyter seguindo os passos:
     Baixar o arquivo "ML - Predição da Temperatura.ipynb"
     Executar o comando abaixo no Anaconda Prompt no mesmo diretório do arquivo Jupyter:
-      jupyter notebook 'ML-Predição da Temperatura.ipynb'
+      jupyter notebook 'ML - Predição da Temperatura.ipynb'
 4. Baixar o arquivo do dataset "jena_climate_2009_2016.csv" da fonte de dados indicada pelo roteiro da atividade
 5. Criar o diretório "C:\ML\"
 6. Mover o dataset para o diretório "C:\ML\"
